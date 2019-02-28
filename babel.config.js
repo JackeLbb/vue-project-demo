@@ -1,9 +1,9 @@
 module.exports = {
   presets: [
     '@vue/app'
-  ],
-  transpileDependencies: [
-    'vue-echarts',
-    'resize-detector'
   ]
+  // transpileDependencies: [
+  //   'vue-echarts',
+  //   'resize-detector'
+  // ]
 }
