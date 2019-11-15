@@ -1,9 +1,5 @@
 module.exports = {
   presets: [
-    '@vue/app'
+    '@vue/cli-plugin-babel/preset'
   ]
-  // transpileDependencies: [
-  //   'vue-echarts',
-  //   'resize-detector'
-  // ]
 }
